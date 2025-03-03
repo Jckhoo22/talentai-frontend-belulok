@@ -46,7 +46,7 @@ export default function Home() {
       <div className="max-w-6xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-gray-900 sm:text-5xl tracking-tight mb-4">
-            TalentAI Resume Matcher V1
+            TalentAI Resume Matcher V1.0
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Analyze how well your resume matches the job description using advanced AI technology
